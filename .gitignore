@@ -1,0 +1,5 @@
+data/*
+!data/example.xml
+!data/example.png
+
+export
